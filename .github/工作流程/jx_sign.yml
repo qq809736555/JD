@@ -35,7 +35,7 @@ jobs:
         run: |
           cd ~/JD
           npm install
-      - name: '运行 【京喜农场】'
+      - name: '运行 【京喜签到】'
         run: |
           cd ~/JD
           node jx_sign.js
